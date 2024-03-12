@@ -1,0 +1,14 @@
+.genres {
+    display: flex;
+    flex-flow: wrap;
+    gap: 5px;
+    justify-content: flex-end;
+    flex-direction: row;
+    .genre {
+        background-color: var(--redHighlight);
+        padding: 2px 3px;
+        font-size: 12px;
+        color: white;
+        white-space: nowrap;
+    }
+}
