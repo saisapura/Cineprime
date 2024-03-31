@@ -28,7 +28,7 @@ Contributions to Cineprime are welcome! If you have any suggestions or would lik
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license-file).
+This project utilizes data from the TMDB API. Please refer to the [TMDB API documentation](https://developer.themoviedb.org/reference/intro/getting-started) for information on how to use the API.
 
 ## Acknowledgments
 
