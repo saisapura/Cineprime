@@ -34,4 +34,5 @@ This project utilizes data from the TMDB API. Please refer to the [TMDB API docu
 
 Cineprime utilizes the TMDB API to provide its extensive collection of movies and TV shows. Special thanks to the TMDB team for their amazing work.
 
-## See Project [here](https://thecineprime.netlify.app/)
+## Project Demo 
+[Cineprime](https://thecineprime.netlify.app/)
