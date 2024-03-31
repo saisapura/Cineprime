@@ -26,8 +26,6 @@ To use Cineprime, simply navigate to the website and start exploring movies and 
 
 Contributions to Cineprime are welcome! If you have any suggestions or would like to report issues, please feel free to submit a pull request or open an issue on GitHub.
 
-## See Project [here](https://thecineprime.netlify.app/)
-
 ## License
 
 This project utilizes data from the TMDB API. Please refer to the [TMDB API documentation](https://developer.themoviedb.org/reference/intro/getting-started) for information on how to use the API.
@@ -35,3 +33,5 @@ This project utilizes data from the TMDB API. Please refer to the [TMDB API docu
 ## Acknowledgments
 
 Cineprime utilizes the TMDB API to provide its extensive collection of movies and TV shows. Special thanks to the TMDB team for their amazing work.
+
+## ## See Project [here](https://thecineprime.netlify.app/)
